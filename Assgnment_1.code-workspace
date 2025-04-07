@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.editorAssociations": {
+			"*.copilotmd": "vscode.markdown.preview.editor",
+			"*.pdf": "pdf.preview",
+			"file:/**/*.csv": "jupyter-data-wrangler"
+		}
+	}
+}
